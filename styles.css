@@ -1,0 +1,85 @@
+body {
+    width: 350px;
+    padding: 10px;
+    font-family: 'Lateef', cursive;
+    font-size: 20px;
+    line-height: 15px;
+}
+
+h3 {
+    color: #CEF0D4;
+    font-size: 70px;
+    font-weight: normal;
+    line-height: 30px;
+    margin: 10px 10px -10px;
+    text-align: center;
+    text-shadow: 3px 3px 2px #082b34;
+    font-family: 'Sacramento', cursive;
+    position: relative;
+    right: 30px;
+}
+
+span {
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Arima Madurai', cursive;
+    color: #082b34;
+    line-height: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+
+.fact {
+    font-style: italic;
+}
+
+
+.snowflake {
+    position: relative;
+    left: 220px;
+    width: 85px;
+    margin-bottom: -50px;
+    margin-top: -50px;
+}
+
+
+.container {
+    box-shadow: 8px 8px 10px #666869;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: rgb(75, 121, 155);
+}
+
+.info {
+    box-shadow: 5px 10px 25px #082b34;
+    border-radius: 10px;
+    border: 1.5px dotted red;
+    padding: 10px;
+    padding-right: 15px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.list {
+    padding-top: 15px;
+    background-color: #CEF0D4;
+}
+
+.penguin {
+    width: 270px;
+    border-radius: 20px;
+    border: 10px solid transparent;
+    margin-bottom: 10px;
+    box-shadow: 5px 10px 25px #082b34;
+    background: url(https://image.ibb.co/cWz63R/Zrzut_ekranu_z_2017_11_19_21_52_20.png);
+    background-size: 100px;
+    background-position: 30px;
+}
